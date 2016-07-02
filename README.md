@@ -1,6 +1,10 @@
 # Texter
-Send SMS using ClockworkSMS API
+Sends SMS via HTTP using ClockworkSMS API
+
+https://api.clockworksms.com/http/send.aspx
+
 http://clockworksms.com/
+
 
 · Program based on "Your First Swift Project" by Peter Morris
 
